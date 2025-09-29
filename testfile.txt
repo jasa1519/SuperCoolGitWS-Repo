@@ -2,3 +2,5 @@ This file is a test file. Its for testing basics of github functionality.
 
 This was a change to the testfile. It tested we could push changes to github.
 
+This line was first changed on a new branch. This tested adding new branches to Github.
+
